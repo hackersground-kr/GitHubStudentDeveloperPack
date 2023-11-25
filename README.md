@@ -3,11 +3,11 @@
 
 ![Github_Student_Developer_pack](img/Github_Student_Developer_pack.webp)
 
-개발에 열정적인 학생들이 많은데, 공부할때 도움되는 다양한 리소스들을 무료로 배울 수 있는 기회가 있습니다. 성장하는데 필요한  기초부터 실무까지 최고 수준의 개발자용 서비스를 제공합니다.
+개발에 열정적인 학생들 대상으로 공부할때 도움되는 다양한 리소스들을 무료로 배울 수 있는 기회가 있습니다. 성장하는데 필요한  기초부터 실무까지 최고 수준의 개발자용 서비스를 제공합니다.
 
 
 ## 제공받는 서비스
-코드를 대신 짜주는 `GitHub Copilot`, 웹 IDE `Codespaces`, 웹 기초, 클라우드, 온라인 해커톤 등이 대표적이고 아래에 토글을 열면 상세 서비스들을 볼 수 있습니다.  
+코드를 대신 짜주는 `GitHub Copilot`, 웹 IDE `Codespaces`, 웹 기초, 클라우드, 온라인 해커톤 등이 제공받는 대표 서비스이고 아래에 토글을 열면 상세 서비스들을 볼 수 있습니다.  
 
 [GitHub Student Developer Pack 바로가기](https://education.github.com/pack)
 
