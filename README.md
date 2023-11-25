@@ -22,7 +22,7 @@
             <img src="img/Hackathon_in_Cloud.png" width="70%" />
             <li>DevOps</li>
             <img src="img/DevOps.png" width="70%" />
-            <li>이외에도 많으니 [공홈](https://education.github.com/pack)을 참고하세요</li>
+            <li>이외에도 많으니 <a href="https://education.github.com/pack">공홈</a>을 참고하세요</li>
         </ol>
 </details>
 
